@@ -1,0 +1,12 @@
+{
+  "name": "solidpatterns",
+  "version": "1.0.0",
+  "description": "solidpatterns",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start01": "node srp/solution.js"
+  },
+  "author": "Ugioni",
+  "license": "MIT"
+}
